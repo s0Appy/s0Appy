@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Steven
 - 👀 I’m interested in embedded devlopment and inteligent backends mainly in C or Python
-- 🌱 I’m currently learning fpga development
-- 💞️ I’m looking to collaborate on embedded controllers with motorsport or control surface application
+- 🌱 I’m currently learning fpga and rust development
+- 💞️ I’m looking to collaborate on embedded controllers with motorsport, control surface application, telemetry, live data logging
 - 📫 How to reach me: nsteven2004@gmail.com
 
 <!---
